@@ -1,5 +1,8 @@
 {
-  "private": true,
+  "private": false,
+  "name": "react-widgets",
+  "homepage": "https://github.com/jquense/react-widgets",
+  "version": "4.0.3",
   "engines": {
     "yarn": "^1.0.0",
     "node": ">=6.0.0"
@@ -39,6 +42,9 @@
     "webpack-dev-server": "^2.4.5",
     "webpack-merge": "^4.1.0",
     "yarn": "rc"
+  },
+  "peerDependencies": {
+    "react": "^15.0.0 || ^16.0.0"
   },
   "workspaces": [
     "packages/*"
