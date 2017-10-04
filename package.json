@@ -4,7 +4,7 @@
   "homepage": "https://github.com/jquense/react-widgets",
   "version": "4.0.3",
   "engines": {
-    "yarn": "^1.0.0",
+    "yarn": ">=1.0.0",
     "node": ">=6.0.0"
   },
   "scripts": {
